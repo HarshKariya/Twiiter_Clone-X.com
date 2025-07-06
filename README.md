@@ -60,5 +60,4 @@ npm run dev
 Contributions are welcome!
 If you’d like to improve the project, fork the repo and submit a pull request.
 
-👨‍💻 Author
-Your Name — @HarshKariya
+👨‍💻 Author-@HarshKariya
